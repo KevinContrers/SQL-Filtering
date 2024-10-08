@@ -1,4 +1,4 @@
-# Cybersecurity Analysis: SQL Filters for Investigating Security Issues (Google Coursera Project)
+# Cybersecurity Analysis: SQL Filters for Investigating Security Issues 
 
 ## Scenario
 
