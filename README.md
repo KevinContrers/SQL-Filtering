@@ -1,4 +1,4 @@
-# Cybersecurity Analysis: SQL Filters for Investigating Security Issues 
+# SQL Filters for Investigating Security Issues 
 
 ## Scenario
 
